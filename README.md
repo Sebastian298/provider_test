@@ -1,3 +1,3 @@
 # provider_test
 
-A new Flutter project.
+Basic to do list application using clean architecture and provider as a status manager
